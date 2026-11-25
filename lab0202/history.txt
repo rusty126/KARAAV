@@ -1,0 +1,46 @@
+* f612318 fix: correct third feature entry
+* c001efb feat: finalize third feature
+*   c9a0547 merge: integrate third feature
+|\  
+| * 1a2fa82 docs: save feature diff
+| * dba98c1 feat: add third feature
+| * d2f0b88 feat: add second feature
+| * d390f49 feat: add first feature
+|/  
+* 885a948 feat: add corrected feature
+| * f347842 feat: add corrected feature
+| | * 745c72a feat: add second feature
+| | * b90b41e feat: add first feature
+| |/  
+|/|   
+| | * af0f82d release: prepare version 1.0.0
+| |/  
+|/|   
+| | * 2cd0281 feat: add database configuration
+| |/  
+|/|   
+* | 91473ec feat: add MySQL database configuration
+* |   6b70f7a merge: resolve payment and notifications conflict
+|\ \  
+| * | e5b7918 feat: add notification features
+| |/  
+* |   5a0828d merge: add payment features
+|\ \  
+| |/  
+|/|   
+| * 46f0525 feat: add payment features
+|/  
+* 0afdf8f feat: add initial application features
+* aa5a35b docs: update GitHub repository screenshot
+* 1f4d01e docs: refresh lab screenshots
+* f322c21 docs: update Git and SSH screenshots
+* a8cc7a1 docs: embed screenshots in README
+* 3fd49a1 docs: add lab screenshots
+* 8843559 docs: add lab report
+* 5c2451e docs: add answers to control questions
+* ecd380d docs: add lab0102 report
+* 4e9131f Update README.md
+* 791b046 Update README.md
+* 8cfd233 Update README.md
+* 704a2bb chore: add gitignore
+* b229a5a docs: add project README
